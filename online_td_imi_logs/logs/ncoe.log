@@ -1,0 +1,378 @@
+[2024-02-12T11:55:02.002Z] My processEligibility Method Called.... Called by null
+[2024-02-12T11:55:02.002Z] Our EligibilityDao processEligibility Method Called...
+[2024-02-12T11:55:02.002Z] Try to Create Database Connection
+[2024-02-12T11:55:02.002Z] Create Database Connection Successful
+[2024-02-12T11:55:02.002Z] Found 49 Courses
+[2024-02-12T11:55:02.002Z] Course (1) - Primary Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (10) - Social Science (Tamil) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (11) - Buddhism Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (12) - Hinduism Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (13) - Islam Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (14) - Catholicism / Christianity (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (15) - Catholicism / Christianity (Tamil) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (16) - First Language (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (17) - First Language (Tamil) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (18) - English Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (19) - Art (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (2) - Primary Education (Tamil)  Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (20)- Art (Tamil) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (21) - Dance (Oriental) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (22) - Dance ( Bharatha) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (23) - Music (Oriental) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (24) - Music ( Carnatic) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (25) - Western Music Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (26) - Drama and Theatre (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (27) - Drama and Theatre (Tamil) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (28) - Health and Physical Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (29)- Health and Physical Education (Tamil) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (3) - Science (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (30) - Health and Physical Education (English) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (31) - Home Economics (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (32) - Home Economics (Tamil) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (33) - Agriculture and Food Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (34) - Agriculture and Food Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (35) - Art and craft (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (36) - Art and craft (Tamil) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (37) - Design and Construction Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (38) - Design and Mechanical Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (39) - Design and Electrical and Electronic Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (4) - Science (Tamil) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (40) - Design and Construction Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (41) - Design and Mechanical Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (42) - Design and Electrical and Electronic Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (43) -Information and Communication Technology (English)  Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (44) - Second Language (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (45) - Second Language (Tamil) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (46) - Special Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (47) - Special Education (Tamil) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (48) - Business and Accounting Studies (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (49) - Business and Accounting Studies (Tamil) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (5) - Science (English) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (6) - Mathematics (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (7) - Mathematics (Tamil) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (8) - Mathematics (English) Selected for Eligibility Check
+[2024-02-12T11:55:02.002Z] Course (9) - Social Science (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] My processEligibility Method Called.... Called by null
+[2024-02-12T11:57:22.022Z] Our EligibilityDao processEligibility Method Called...
+[2024-02-12T11:57:22.022Z] Try to Create Database Connection
+[2024-02-12T11:57:22.022Z] Create Database Connection Successful
+[2024-02-12T11:57:22.022Z] Found 49 Courses
+[2024-02-12T11:57:22.022Z] Course (1) - Primary Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (10) - Social Science (Tamil) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (11) - Buddhism Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (12) - Hinduism Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (13) - Islam Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (14) - Catholicism / Christianity (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (15) - Catholicism / Christianity (Tamil) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (16) - First Language (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (17) - First Language (Tamil) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (18) - English Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (19) - Art (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (2) - Primary Education (Tamil)  Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (20)- Art (Tamil) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (21) - Dance (Oriental) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (22) - Dance ( Bharatha) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (23) - Music (Oriental) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (24) - Music ( Carnatic) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (25) - Western Music Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (26) - Drama and Theatre (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (27) - Drama and Theatre (Tamil) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (28) - Health and Physical Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (29)- Health and Physical Education (Tamil) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (3) - Science (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (30) - Health and Physical Education (English) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (31) - Home Economics (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (32) - Home Economics (Tamil) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (33) - Agriculture and Food Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (34) - Agriculture and Food Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (35) - Art and craft (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (36) - Art and craft (Tamil) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (37) - Design and Construction Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (38) - Design and Mechanical Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (39) - Design and Electrical and Electronic Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (4) - Science (Tamil) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (40) - Design and Construction Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (41) - Design and Mechanical Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (42) - Design and Electrical and Electronic Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (43) -Information and Communication Technology (English)  Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (44) - Second Language (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (45) - Second Language (Tamil) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (46) - Special Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (47) - Special Education (Tamil) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (48) - Business and Accounting Studies (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (49) - Business and Accounting Studies (Tamil) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (5) - Science (English) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (6) - Mathematics (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (7) - Mathematics (Tamil) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (8) - Mathematics (English) Selected for Eligibility Check
+[2024-02-12T11:57:22.022Z] Course (9) - Social Science (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] My processEligibility Method Called.... Called by null
+[2024-02-12T11:59:44.044Z] Our EligibilityDao processEligibility Method Called...
+[2024-02-12T11:59:44.044Z] Try to Create Database Connection
+[2024-02-12T11:59:44.044Z] Create Database Connection Successful
+[2024-02-12T11:59:44.044Z] Found 49 Courses
+[2024-02-12T11:59:44.044Z] Course (1) - Primary Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (10) - Social Science (Tamil) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (11) - Buddhism Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (12) - Hinduism Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (13) - Islam Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (14) - Catholicism / Christianity (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (15) - Catholicism / Christianity (Tamil) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (16) - First Language (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (17) - First Language (Tamil) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (18) - English Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (19) - Art (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (2) - Primary Education (Tamil)  Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (20)- Art (Tamil) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (21) - Dance (Oriental) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (22) - Dance ( Bharatha) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (23) - Music (Oriental) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (24) - Music ( Carnatic) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (25) - Western Music Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (26) - Drama and Theatre (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (27) - Drama and Theatre (Tamil) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (28) - Health and Physical Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (29)- Health and Physical Education (Tamil) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (3) - Science (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (30) - Health and Physical Education (English) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (31) - Home Economics (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (32) - Home Economics (Tamil) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (33) - Agriculture and Food Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (34) - Agriculture and Food Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (35) - Art and craft (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (36) - Art and craft (Tamil) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (37) - Design and Construction Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (38) - Design and Mechanical Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (39) - Design and Electrical and Electronic Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (4) - Science (Tamil) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (40) - Design and Construction Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (41) - Design and Mechanical Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (42) - Design and Electrical and Electronic Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (43) -Information and Communication Technology (English)  Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (44) - Second Language (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (45) - Second Language (Tamil) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (46) - Special Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (47) - Special Education (Tamil) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (48) - Business and Accounting Studies (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (49) - Business and Accounting Studies (Tamil) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (5) - Science (English) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (6) - Mathematics (Sinhala) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (7) - Mathematics (Tamil) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (8) - Mathematics (English) Selected for Eligibility Check
+[2024-02-12T11:59:44.044Z] Course (9) - Social Science (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] My processEligibility Method Called.... Called by null
+[2024-02-12T12:00:35.035Z] Our EligibilityDao processEligibility Method Called...
+[2024-02-12T12:00:35.035Z] Try to Create Database Connection
+[2024-02-12T12:00:35.035Z] Create Database Connection Successful
+[2024-02-12T12:00:35.035Z] Found 49 Courses
+[2024-02-12T12:00:35.035Z] Course (1) - Primary Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (10) - Social Science (Tamil) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (11) - Buddhism Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (12) - Hinduism Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (13) - Islam Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (14) - Catholicism / Christianity (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (15) - Catholicism / Christianity (Tamil) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (16) - First Language (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (17) - First Language (Tamil) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (18) - English Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (19) - Art (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (2) - Primary Education (Tamil)  Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (20)- Art (Tamil) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (21) - Dance (Oriental) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (22) - Dance ( Bharatha) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (23) - Music (Oriental) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (24) - Music ( Carnatic) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (25) - Western Music Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (26) - Drama and Theatre (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (27) - Drama and Theatre (Tamil) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (28) - Health and Physical Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (29)- Health and Physical Education (Tamil) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (3) - Science (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (30) - Health and Physical Education (English) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (31) - Home Economics (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (32) - Home Economics (Tamil) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (33) - Agriculture and Food Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (34) - Agriculture and Food Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (35) - Art and craft (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (36) - Art and craft (Tamil) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (37) - Design and Construction Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (38) - Design and Mechanical Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (39) - Design and Electrical and Electronic Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (4) - Science (Tamil) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (40) - Design and Construction Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (41) - Design and Mechanical Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (42) - Design and Electrical and Electronic Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (43) -Information and Communication Technology (English)  Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (44) - Second Language (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (45) - Second Language (Tamil) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (46) - Special Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (47) - Special Education (Tamil) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (48) - Business and Accounting Studies (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (49) - Business and Accounting Studies (Tamil) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (5) - Science (English) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (6) - Mathematics (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (7) - Mathematics (Tamil) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (8) - Mathematics (English) Selected for Eligibility Check
+[2024-02-12T12:00:35.035Z] Course (9) - Social Science (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] My processEligibility Method Called.... Called by null
+[2024-02-12T12:01:54.054Z] Our EligibilityDao processEligibility Method Called...
+[2024-02-12T12:01:54.054Z] Try to Create Database Connection
+[2024-02-12T12:01:54.054Z] Create Database Connection Successful
+[2024-02-12T12:01:54.054Z] Found 49 Courses
+[2024-02-12T12:01:54.054Z] Course (1) - Primary Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (10) - Social Science (Tamil) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (11) - Buddhism Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (12) - Hinduism Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (13) - Islam Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (14) - Catholicism / Christianity (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (15) - Catholicism / Christianity (Tamil) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (16) - First Language (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (17) - First Language (Tamil) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (18) - English Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (19) - Art (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (2) - Primary Education (Tamil)  Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (20)- Art (Tamil) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (21) - Dance (Oriental) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (22) - Dance ( Bharatha) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (23) - Music (Oriental) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (24) - Music ( Carnatic) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (25) - Western Music Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (26) - Drama and Theatre (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (27) - Drama and Theatre (Tamil) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (28) - Health and Physical Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (29)- Health and Physical Education (Tamil) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (3) - Science (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (30) - Health and Physical Education (English) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (31) - Home Economics (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (32) - Home Economics (Tamil) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (33) - Agriculture and Food Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (34) - Agriculture and Food Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (35) - Art and craft (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (36) - Art and craft (Tamil) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (37) - Design and Construction Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (38) - Design and Mechanical Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (39) - Design and Electrical and Electronic Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (4) - Science (Tamil) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (40) - Design and Construction Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (41) - Design and Mechanical Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (42) - Design and Electrical and Electronic Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (43) -Information and Communication Technology (English)  Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (44) - Second Language (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (45) - Second Language (Tamil) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (46) - Special Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (47) - Special Education (Tamil) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (48) - Business and Accounting Studies (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (49) - Business and Accounting Studies (Tamil) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (5) - Science (English) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (6) - Mathematics (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (7) - Mathematics (Tamil) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (8) - Mathematics (English) Selected for Eligibility Check
+[2024-02-12T12:01:54.054Z] Course (9) - Social Science (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] My processEligibility Method Called.... Called by null
+[2024-02-12T12:10:46.046Z] Our EligibilityDao processEligibility Method Called...
+[2024-02-12T12:10:46.046Z] Try to Create Database Connection
+[2024-02-12T12:10:46.046Z] Create Database Connection Successful
+[2024-02-12T12:10:46.046Z] Found 49 Courses
+[2024-02-12T12:10:46.046Z] Course (1) - Primary Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (10) - Social Science (Tamil) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (11) - Buddhism Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (12) - Hinduism Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (13) - Islam Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (14) - Catholicism / Christianity (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (15) - Catholicism / Christianity (Tamil) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (16) - First Language (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (17) - First Language (Tamil) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (18) - English Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (19) - Art (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (2) - Primary Education (Tamil)  Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (20)- Art (Tamil) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (21) - Dance (Oriental) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (22) - Dance ( Bharatha) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (23) - Music (Oriental) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (24) - Music ( Carnatic) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (25) - Western Music Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (26) - Drama and Theatre (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (27) - Drama and Theatre (Tamil) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (28) - Health and Physical Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (29)- Health and Physical Education (Tamil) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (3) - Science (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (30) - Health and Physical Education (English) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (31) - Home Economics (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (32) - Home Economics (Tamil) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (33) - Agriculture and Food Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (34) - Agriculture and Food Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (35) - Art and craft (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (36) - Art and craft (Tamil) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (37) - Design and Construction Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (38) - Design and Mechanical Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (39) - Design and Electrical and Electronic Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (4) - Science (Tamil) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (40) - Design and Construction Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (41) - Design and Mechanical Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (42) - Design and Electrical and Electronic Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (43) -Information and Communication Technology (English)  Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (44) - Second Language (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (45) - Second Language (Tamil) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (46) - Special Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (47) - Special Education (Tamil) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (48) - Business and Accounting Studies (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (49) - Business and Accounting Studies (Tamil) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (5) - Science (English) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (6) - Mathematics (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (7) - Mathematics (Tamil) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (8) - Mathematics (English) Selected for Eligibility Check
+[2024-02-12T12:10:46.046Z] Course (9) - Social Science (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] My processEligibility Method Called.... Called by null
+[2024-02-12T12:13:50.050Z] Our EligibilityDao processEligibility Method Called...
+[2024-02-12T12:13:50.050Z] Try to Create Database Connection
+[2024-02-12T12:13:50.050Z] Create Database Connection Successful
+[2024-02-12T12:13:50.050Z] Found 49 Courses
+[2024-02-12T12:13:50.050Z] Course (1) - Primary Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (10) - Social Science (Tamil) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (11) - Buddhism Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (12) - Hinduism Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (13) - Islam Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (14) - Catholicism / Christianity (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (15) - Catholicism / Christianity (Tamil) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (16) - First Language (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (17) - First Language (Tamil) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (18) - English Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (19) - Art (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (2) - Primary Education (Tamil)  Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (20)- Art (Tamil) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (21) - Dance (Oriental) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (22) - Dance ( Bharatha) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (23) - Music (Oriental) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (24) - Music ( Carnatic) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (25) - Western Music Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (26) - Drama and Theatre (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (27) - Drama and Theatre (Tamil) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (28) - Health and Physical Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (29)- Health and Physical Education (Tamil) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (3) - Science (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (30) - Health and Physical Education (English) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (31) - Home Economics (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (32) - Home Economics (Tamil) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (33) - Agriculture and Food Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (34) - Agriculture and Food Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (35) - Art and craft (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (36) - Art and craft (Tamil) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (37) - Design and Construction Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (38) - Design and Mechanical Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (39) - Design and Electrical and Electronic Technology (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (4) - Science (Tamil) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (40) - Design and Construction Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (41) - Design and Mechanical Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (42) - Design and Electrical and Electronic Technology (Tamil) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (43) -Information and Communication Technology (English)  Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (44) - Second Language (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (45) - Second Language (Tamil) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (46) - Special Education (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (47) - Special Education (Tamil) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (48) - Business and Accounting Studies (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (49) - Business and Accounting Studies (Tamil) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (5) - Science (English) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (6) - Mathematics (Sinhala) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (7) - Mathematics (Tamil) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (8) - Mathematics (English) Selected for Eligibility Check
+[2024-02-12T12:13:50.050Z] Course (9) - Social Science (Sinhala) Selected for Eligibility Check
